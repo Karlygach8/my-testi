@@ -1,0 +1,9 @@
+.poke{
+    display: flex;
+    width: 200px;
+    background-color: aqua;
+    img{
+        width: 90px;
+        height: 90px;
+    }
+}
